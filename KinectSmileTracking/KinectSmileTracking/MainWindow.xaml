@@ -27,7 +27,7 @@
             </Grid>
         </Viewbox>
         <Ellipse Grid.Row="1" Margin="0,244,48,0" Name="elp" Stroke="Black" HorizontalAlignment="Right" Width="225" Height="225" VerticalAlignment="Top" />
-        <TextBlock Grid.Row="1" Margin="0,129,8,0" Name="tBMouthDistance" Text="0" FontSize="30" TextAlignment="Left" Height="47" VerticalAlignment="Top" HorizontalAlignment="Right" Width="301" />
+        <TextBlock Grid.Row="1" Margin="0,91,8,0" Name="tBMouthDistance" Text="0" FontSize="30" TextAlignment="Left" Height="47" VerticalAlignment="Top" HorizontalAlignment="Right" Width="301" />
         <TextBlock Grid.Row="1" Height="47" HorizontalAlignment="Right" Margin="0,76,12,0" Name="textBlock1" Text="Length of Line between both sides of your mouth" VerticalAlignment="Top" Width="297" TextWrapping="Wrap" FontSize="15" />
         <TextBlock FontSize="15" Grid.Row="1" Height="25" HorizontalAlignment="Right" Margin="0,1,12,0" Name="textBlock3" Text="Threshold" VerticalAlignment="Top" Width="297" />
         <TextBlock FontSize="25" Grid.Row="1" Height="38" HorizontalAlignment="Right" Margin="0,32,12,0" Name="tbThreshold" Text="Unknow" VerticalAlignment="Top" Width="297" />
